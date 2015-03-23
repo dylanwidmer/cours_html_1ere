@@ -1,0 +1,21 @@
+<html><!DOCTYPE html>
+  <html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Exercice </title>
+  </head>
+  <body>
+   <table border=solid>
+   <tr>
+    <td>Ow</td>
+    <td>C'est</td>
+    <td>Moche</td>
+   </tr>
+    <td>Ow</td>
+    <td>C'est</td>
+    <td colspan="2">Moche</td>
+    <td>ça</td>
+   </tr>
+   </table>
+  </body>
+</html>
