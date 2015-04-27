@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Yo le rap</title>
+  </head>
+
+  <body>
+      <p><h1>Ceci est un titre H1</h1></p>
+      <p><strong>Ceci est le strong</strong></p>
+      <p><i>Ceci est en italic</i></p>
+      <p><b>Ceci est en gras</b></p>
+      <p>Ceci est normal</p>
+  <table border=solid />
+    <caption>Ceci est le caption</caption>
+    <thead>
+      <tr>
+        <th>Colonne 1</th>
+        <th>Colonne 2</th>
+        <th>Colonne 3</th>
+        <th>Colonne 4</th>
+        <th>Colonne 5</th>
+        <th>Colonne 6</th>
+        <th>Colonne 7</th>
+      </tr>
+    </thead>
+
+    <tfoot>
+      <tr>
+        <th>Colonne 1</th>
+        <th>Colonne 2</th>
+        <th>Colonne 3</th>
+        <th>Colonne 4</th>
+        <th>Colonne 5</th>
+        <th>Colonne 6</th>
+        <th>Colonne 7</th>
+      </tr>
+    </tfoot>
+
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td rowspan="2">5</td>
+        <td rowspan="2" colspan="2">6</td>
+      </tr>
+      <tr>
+        <td>a</td>
+        <td>b</td>
+        <td>c</td>
+        <td>d</td>
+      </tr>
+      <tr>
+        <td colspan=2>+</td>
+        <td>*</td>
+        <td>%</td>
+        <td>&</td>
+        <td>/</td>
+        <td>=</td>
+      </tr>
+      </tbody>
+    </table>
+      <p>Ceci est un <a href="https://www.google.ch/?gws_rd=ssl" title="Ceci est une infobulle">lien</a>.</p>
+      <p>Voici une image enregistrée</p><br />
+    <figure>
+      <img src="vacances.jpg" alt="Photo enregistrée" title="Ceci est une infobulle" /><br />
+      <figcaption>Ceci est une figcaption</figcaption>
+    </figure>
+      <p>Voici une image d'Internet</p><br />
+    <figure>
+      <a href="http://fr.wikipedia.org/wiki/Cerveau"><img src="http://www.medicalnewstoday.com/content/categories/psychology-psychiatry/thumbs/image3.jpg" alt="Photo d'Internet" title="Ceci est une infobulle" /></a>
+      <figcaption>Ceci est une figcaption</figcaption>
+    </figure>
+      <p>Descendre jusqu'à <a href="#Balançoire">Balançoire</a>.</p>
+      <p>Descendre jusqu'à <a href="#Manger">Vanille</a>.</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <h2 id="Balançoire">Balançoire à la fraise</h2>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p id="Manger">La vanille</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+      <p>
+        <ol>
+          <li>Hayce Lemsi</li>
+          <li>Volts Face</li>
+          <li>Tito Prince</li>
+        </ol>
+        <ul>
+          <li>Pyramide</li>
+          <li>Young Bikow</li>
+          <li>Medley 2015</li>
+        </ul>
+                <ul>
+          <li>Pyramide</li>
+          <li><a href="https://www.youtube.com/watch?v=unk-IE73B34" title="Clip sur Youtube">Young Bikow</a></li>
+          <li>Medley 2015</li>
+        </ul>
+      </p>
+  </body>
+</html>

@@ -6,6 +6,7 @@
   </head>
   <body>
    <table border="solid">
+    <caption>Présentation...</caption>
     <tr>
         <td></td>
         <td>Lundi</td>
